@@ -6,5 +6,6 @@
 <br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JUNG-won-park)](https://github.com/anuraghazra/github-readme-stats)
+  https://github-readme-stats.vercel.app/api?username=JUNG-won-park)&hide=stars,contribs
 </div>
-https://github-readme-stats.vercel.app/api?username=JUNG-won-park)&hide=stars,contribs
+
